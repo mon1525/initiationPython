@@ -10,16 +10,16 @@ nombre = random.randrange(10)
 print("Jeu du + OU - ? Devine le nombre auquel je pense, entre 1 et 10")
 reponse = -1 # pour eviter que le programe trouve directement la reponse
 
+# Tant que la reponse est differente de nombre, la boucle continue
 while reponse != nombre :
   print("Tape un nombre entier entre 0 et 10")
-  reponse =int(input())
+  reponse =int(input()) # ici on change directement le type de l'entree clavier en int
+
   if reponse > nombre :
     print ("moins :-( ")
-    
   elif reponse < nombre :
     print ("plus :-(D ")
+  else :
+    print ("Yes :-) , le nombre =  ", nombre)
   
-else :
-  print ("Yes :-) , le nombre =  ", nombre)
-  
-# os.system("pause") # Pour Windows
+# os.system("pause") # Pour Windows, il faut retirer le # en debut de ligne
