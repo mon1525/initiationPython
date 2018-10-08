@@ -1,6 +1,12 @@
 # Initiation à la programmation avec Python
 support de cours pour l'initiation à la programmation avec Python
 
+Vocabulaire : https://github.com/Reyoth/initiationPython/blob/master/Vocabulaire.pdf
+
+Pour creer un compte et me suivre sur codingame : https://www.codingame.com/servlet/urlinvite?u=867868
+
+Ou alors : https://www.codingame.com/profile/0504ed3543dc814c87bf2a9dfd30d3e5868768
+
 ## 1. Développer avec Scratch
 Scratch : https://scratch.mit.edu/
 
