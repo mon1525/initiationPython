@@ -19,13 +19,17 @@ Processing : https://processing.org/
 **Programmation via le jeu en ligne :**
 
 Codingame : https://www.codingame.com 
+
 Codecombat : https://codecombat.com/play
 
 **Site pour apprendre la programmation en ligne :**
 
 OpenClassRooms : https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python
+
 W3Schools : https://www.w3schools.com/python/
+
 Labex : https://labex.io
+
 Infinity:  http://www.evoliris-infinity.be/
 
 ## 4. centre de formation
