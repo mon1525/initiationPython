@@ -9,16 +9,20 @@ Python : https://www.python.org/downloads/
 
 ## 3. Liens utiles
 **Interpreteur en ligne :**
+
 Repl>it : https://repl.it/
 
 **Interface de développment "visuel" :**
+
 Processing : https://processing.org/
 
 **Programmation via le jeu en ligne :**
+
 Codingame : https://www.codingame.com 
 Codecombat : https://codecombat.com/play
 
 **Site pour apprendre la programmation en ligne :**
+
 Labex : https://labex.io
 Infinity:  http://www.evoliris-infinity.be/
 
