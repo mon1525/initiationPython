@@ -12,6 +12,7 @@ Ou alors : https://www.codingame.com/profile/0504ed3543dc814c87bf2a9dfd30d3e5868
 ## 1. Développer avec Scratch :cat:
 
 - Scratch : https://scratch.mit.edu/
+- Voyageurs du code : http://voyageursducode.fr/ressources/fiches-activites.html?search=liste_de_ressources&task=search
 
 ## 2. Installer Python sur son oridinateur :package:
 
