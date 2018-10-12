@@ -36,6 +36,7 @@ Ou alors : https://www.codingame.com/profile/0504ed3543dc814c87bf2a9dfd30d3e5868
 **Site pour apprendre la programmation en ligne :**
 
 - OpenClassRooms : https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python
+- SoloLearn : https://www.sololearn.com/
 - edX : https://www.edx.org/
 - codecademy : https://www.codecademy.com/
 - Labex : https://labex.io
